@@ -1,0 +1,31 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+geopandas = "*"
+rasterio = "*"
+ipyleaflet = "*"
+branca = "*"
+contextily = "*"
+mapclassify = "*"
+eralchemy = "*"
+jupyterlab = "*"
+ipython-sql = "*"
+shapely = "*"
+fiona = "*"
+pyproj = "*"
+descartes = "*"
+sqlalchemy = "<1.4"
+geoalchemy = "*"
+rtree = "*"
+pickleshare = "*"
+
+[requires]
+python_version = "3.9"

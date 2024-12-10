@@ -26,6 +26,11 @@ sqlalchemy = "<1.4"
 geoalchemy = "*"
 rtree = "*"
 pickleshare = "*"
+nbconvert = "*"
+momepy = "*"
+folium = "*"
+osmnx = "*"
+pyrosm = "*"
 
 [requires]
 python_version = "3.9"

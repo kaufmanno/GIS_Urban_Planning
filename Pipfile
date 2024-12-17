@@ -36,6 +36,7 @@ osmnx = "*"
 pyrosm = "*"
 clustergram = "*"
 geopy = "*"
+libpysal = "*"
 
 [requires]
 python_version = "3.10.15"

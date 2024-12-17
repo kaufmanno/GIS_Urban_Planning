@@ -4,6 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+clustergram = "*"
+bokeh = "*"
+numba = "*"
 
 [packages]
 numpy = "*"
@@ -31,6 +34,8 @@ momepy = "*"
 folium = "*"
 osmnx = "*"
 pyrosm = "*"
+clustergram = "*"
+geopy = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.10.15"
